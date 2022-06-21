@@ -1,5 +1,5 @@
 ################
-# Nombre - @usuario_github
+# Nombre - @absss03
 # UNRN Andina - Introducción a la Ingenieria en Computación
 ################
 
