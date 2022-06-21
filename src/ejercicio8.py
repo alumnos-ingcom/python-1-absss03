@@ -6,7 +6,7 @@
 """
 Escribir una función que indique con True si un numero indicado es Primo.
 """
-# Reemplazar por las funciones del ejercicio
+
 from src.ejercicio5 import division_lenta
 
 def es_primo(numero):
@@ -27,4 +27,4 @@ resultado=es_primo(numero=0)
 
 if __name__ == "__main__":
     
-    es_primo(numero)
+    es_primo(numero=7)
