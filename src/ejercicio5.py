@@ -19,7 +19,7 @@ def division_lenta(dividendo, divisor):
     while sigue_restando:
         dividendo=dividendo-divisor
         resultado+=1
-    if dividendo < divisor:
+        if dividendo < divisor:
             sigue_restando= False
 
     return resultado, dividendo
